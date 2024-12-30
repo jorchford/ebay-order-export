@@ -1,4 +1,3 @@
-
 # eBay Order Export Tool
 
 [中文文档](README_CN.md)
@@ -6,6 +5,8 @@
 ## Introduction
 
 eBay Order Export Assistant is a powerful Chrome browser extension designed for eBay buyers. It helps you easily export order data and improve work efficiency.
+
+![eBay Logo](images/EbayLogo.png)![Pricing](images/ebay21.png)
 
 ## Key Features
 
@@ -15,6 +16,13 @@ eBay Order Export Assistant is a powerful Chrome browser extension designed for 
 - Multiple export formats support
 - Real-time order synchronization
 
+![Feature Overview](images/ebay11.png)
+
+
+![Export Formats](images/ebay15.png)
+
+![Final Result](https://file+.vscode-resource.vscode-cdn.net/d%3A/sheet/Ebay/ebay-order-export/images/ebay41.png)
+
 ## Subscription Plans
 
 We offer flexible subscription options:
@@ -22,6 +30,9 @@ We offer flexible subscription options:
 - Monthly subscription: $99/month
 - Cancel anytime
 - Free technical support
+
+
+
 
 ## How to Use
 

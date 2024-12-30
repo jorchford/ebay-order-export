@@ -4,6 +4,7 @@
 
 eBay订单导出助手是一款强大的 Chrome 浏览器扩展，专为 eBay 买家设计。它能够帮助您轻松导出订单数据，提高工作效率。
 
+![eBay Logo](images/EbayLogo.png)![订阅方案](https://file+.vscode-resource.vscode-cdn.net/d%3A/sheet/Ebay/ebay-order-export/images/ebay2.png)
 
 ## 主要功能
 
@@ -11,7 +12,11 @@ eBay订单导出助手是一款强大的 Chrome 浏览器扩展，专为 eBay �
 - 支持批量导出功能
 - 自动化数据整理
 - 支持多种导出格式
-- 实时订单同步
+- 实时订单同步![订阅方案](https://file+.vscode-resource.vscode-cdn.net/d%3A/sheet/Ebay/ebay-order-export/images/ebay2.png)
+
+![安装步骤](https://file+.vscode-resource.vscode-cdn.net/d%3A/sheet/Ebay/ebay-order-export/images/ebay3.png)![功能概览](images/ebay11.png)
+
+![导出流程](https://file+.vscode-resource.vscode-cdn.net/d%3A/sheet/Ebay/ebay-order-export/images/ebay311.jpg)
 
 ## 订阅方案
 
@@ -26,8 +31,10 @@ eBay订单导出助手是一款强大的 Chrome 浏览器扩展，专为 eBay �
 1. 从 Chrome 网上应用店安装插件 [点击安装](https://chromewebstore.google.com/detail/ebay-order-export-tool/kifpnlnbboicjkfpicbjegifohgkfbho)
 2. 登录您的 eBay 卖家账号
 3. 点击插件图标开始使用
-4. 选择需要导出的订单
+4. 选择需要导出的订单页面起始页和页数
 5. 一键导出数据
+
+![订阅方案](https://file+.vscode-resource.vscode-cdn.net/d%3A/sheet/Ebay/ebay-order-export/images/ebay2.png)
 
 ## 技术支持
 
